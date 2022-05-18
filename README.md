@@ -1,6 +1,6 @@
 # PDFTOJPG
 
-No frils CLI command to convert pdf to jpg image(s).
+No frils CLI command to convert pdf to jpg image(s). Extended the script from: https://golangcode.com/convert-pdf-to-jpg/
 
 ## Prerequisite
 - GO 1.17
